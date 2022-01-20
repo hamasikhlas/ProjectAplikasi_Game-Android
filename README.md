@@ -16,7 +16,6 @@ Ada beberapa file dan folder yang saya upload seperti :
 # SS Game Edukasi susun nama-nama Hewan Langkah 
 
 
-##Tampilan Awal Aplikasi
 ![image](https://user-images.githubusercontent.com/79309521/150283685-bb1711ee-b9d4-4d49-a7ea-441bf03950f9.png)
 
 
