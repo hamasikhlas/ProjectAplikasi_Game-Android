@@ -1,0 +1,54 @@
+﻿Import the relevant data below into Construct2/3.
+
+################################################################################
+
+Character width: 63
+Character height: 93
+Character set: ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789.,;:?!-_~#"'&()[]|`\/@°+=*$£€<>%
+
+################################################################################
+Construct 3 ONLY.
+Copy the following JSON text and paste into the 'Spacing data' property of the SpriteFont. No extra coding is required!
+
+[[33," "],[23,"'"],[24,"|"],[26,"l."],[27,"I,;:"],[28,"i`"],[29,"!"],[30,"-["],[31,"]"],[32,"()°<>"],[33,"r_="],[34,"j*"],[35,"ft1\"+"],[37,"EFL"],[38,"z"],[39,"Z"],[40,"7~/"],[41,"Tsu\\"],[42,"Jahnv#"],[43,"HPc2$"],[44,"BDSVbdegkopq5?£"],[45,"NRUy3469"],[46,"ACGKOQx08"],[47,"Y"],[48,"X"],[49,"€"],[53,"&"],[58,"m"],[59,"%"],[60,"Mw@"],[61,"W"]]
+
+################################################################################
+Construct 2 ONLY.
+Copy the following JSON text and paste into the Array.Load command INSIDE the default quotes.
+
+{""c2array"":true,""size"":[2,31,1],""data"":[[[33],[23],[24],[26],[27],[28],[29],[30],[31],[32],[33],[34],[35],[37],[38],[39],[40],[41],[42],[43],[44],[45],[46],[47],[48],[49],[53],[58],[59],[60],[61]],[["" ""],[""'""],[""|""],[""l.""],[""I,;:""],[""i`""],[""!""],[""-[""],[""]""],[""()°<>""],[""r_=""],[""j*""],[""ft1\""+""],[""EFL""],[""z""],[""Z""],[""7~/""],[""Tsu\\""],[""Jahnv#""],[""HPc2$""],[""BDSVbdegkopq5?£""],[""NRUy3469""],[""ACGKOQx08""],[""Y""],[""X""],[""€""],[""&""],[""m""],[""%""],[""Mw@""],[""W""]]]}
+
+################################################################################
+These are the details for building the character widths manually, with the SpriteFont  'Set character width' action.
+
+33	" "
+23	"'"
+24	"|"
+26	"l."
+27	"I,;:"
+28	"i`"
+29	"!"
+30	"-["
+31	"]"
+32	"()°<>"
+33	"r_="
+34	"j*"
+35	"ft1""+"
+37	"EFL"
+38	"z"
+39	"Z"
+40	"7~/"
+41	"Tsu\"
+42	"Jahnv#"
+43	"HPc2$"
+44	"BDSVbdegkopq5?£"
+45	"NRUy3469"
+46	"ACGKOQx08"
+47	"Y"
+48	"X"
+49	"€"
+53	"&"
+58	"m"
+59	"%"
+60	"Mw@"
+61	"W"
